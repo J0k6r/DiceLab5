@@ -3,6 +3,7 @@ Program Name: Lab 5 - Craps Sim
 Author: Kaleb Quinn
 Purpose: Roll two dice.
 Date: 2026-02-15
+submission
 """
 
 import random
@@ -67,3 +68,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
